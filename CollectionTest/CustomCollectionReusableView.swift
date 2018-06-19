@@ -8,9 +8,6 @@
 
 import UIKit
 
-// 22 herdar de UICollectionViewCell
-// 23 inserir a classe no storyboard
-// 24 criar conexão com text label  ( @IBOutlet weak var varname: UILabel!)
 class CustomCollectionReusableView: UICollectionReusableView {
         @IBOutlet weak var headerTitleLabel: UILabel!
 }

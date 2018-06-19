@@ -8,9 +8,7 @@
 
 import UIKit
 
-// 10 herdar de UICollectionViewCell
-// 11 inserir a classe no storyboard
-// 12 criar conexão com text label  ( @IBOutlet weak var varName: UILabel!) Voltar ViewController...
+
 class CustonCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var textLabel: UILabel!
